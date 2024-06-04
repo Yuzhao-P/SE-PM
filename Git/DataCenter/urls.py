@@ -1,6 +1,6 @@
 
 
-# learn/urls.py
+# learn/urls.py【R11】
 from django.urls import path
 from . import views
 
